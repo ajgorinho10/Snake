@@ -29,5 +29,4 @@ SnakeGameJavaLibGDX to prosta implementacja klasycznej gry Snake napisana w jęz
 ![Screenshot 1](ss/2.PNG)
 ![Screenshot 1](ss/3.PNG)
 ![Screenshot 1](ss/4.PNG)
-![Screenshot 1](ss/5.PNG)
 
