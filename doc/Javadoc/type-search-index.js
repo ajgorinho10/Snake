@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mygdx.game","l":"DesktopLauncher"},{"p":"gra","l":"gra"},{"p":"gra","l":"kolejka"},{"p":"gra","l":"ranking"},{"p":"testy","l":"rankingTest"},{"p":"gra","l":"rankObj"},{"p":"gra","l":"rysowanie"},{"p":"gra","l":"waz"},{"p":"testy","l":"wazTest"}];updateSearchResults();
